@@ -1,0 +1,19 @@
+From: ITSecurity@gmail.com
+To: employee@mastercard.com
+
+Subject: Mandatory Security Update – Immediate Action Required
+
+Dear All,
+
+As part of Mastercard’s quarterly security compliance routine, all staff are required to reset their passwords to meet ISO 27001 standards.
+
+Please complete your reset before 5:00 PM today to avoid temporary disruption to Outlook, Workday, and Teams access.
+
+Click below to reset your password:
+👉 Reset My Password Securely
+
+If you have already done so, please disregard this message.
+
+Thanks,  
+Mastercard Global Security Team  
+itsecurity.mastercard.com
